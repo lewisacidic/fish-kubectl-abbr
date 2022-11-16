@@ -18,7 +18,7 @@ Fish abbreviations replace typed text with an extended command after pressing \<
 
 ### General 
 
-| Alias   | Command                             | Description                                                                                      |
+| Abbreviation | Command                             | Description                                                                                      |
 |:--------|:------------------------------------|:-------------------------------------------------------------------------------------------------|
 | k       | `kubectl`                           | The kubectl command.                                                                             |
 | kca     | `kubectl --all-namespaces`          | The kubectl command targeting all namespaces.                                                    |
